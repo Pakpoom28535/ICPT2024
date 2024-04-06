@@ -157,3 +157,13 @@
     background-color: #65131a;
     border: #65131a;
 }
+
+.bg-fimage{
+    background-image: url("/assets/images/bg-engineer.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg-engcolor{
+    background-color: #65131a;
+}
