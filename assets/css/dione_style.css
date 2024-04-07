@@ -64,8 +64,8 @@
 */
 
 #home-bg-parallax > .bg-parallax {
-    background: url("../images/bgsuthep2.png");
-    background-size: contain;
+    background: url("../images/bgcnx.png");
+    background-size: cover;
 }
 
 
